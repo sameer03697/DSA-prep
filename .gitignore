@@ -1,0 +1,9 @@
+*
+!/**/
+!*.*
+**/*.dSYM
+.vscode
+.nodemodules
+*.DS_Store
+**/node_modules
+**/**/dist

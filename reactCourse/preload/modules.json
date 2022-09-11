@@ -1,0 +1,362 @@
+{
+  "dependencies": {
+    "babel-cli": {
+      "^6.22.2": [
+        "./lesson-es6/lab/package.json",
+        "./lesson-es6/solution/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "babel-preset-es2015": {
+      "^6.22.0": [
+        "./lesson-es6/lab/package.json",
+        "./lesson-es6/solution/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "babel-preset-stage-3": {
+      "^6.22.0": [
+        "./lesson-es6/lab/package.json",
+        "./lesson-es6/solution/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "react": {
+      "^15.5.3": [
+        "./lesson-react-10-intro/solution/react-app/package.json"
+      ],
+      "^16.13.1": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/preload1/package.json"
+      ],
+      "^15.5.4": [
+        "./lesson-react-30-styling/lab/react-app/package.json",
+        "./lesson-react-30-styling/solution/react-app/package.json",
+        "./lesson-react-40-inner-components/lab/react-app/package.json",
+        "./lesson-react-40-inner-components/solution/react-app/package.json",
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "react-dom": {
+      "^15.5.3": [
+        "./lesson-react-10-intro/solution/react-app/package.json"
+      ],
+      "^16.13.1": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/preload1/package.json"
+      ],
+      "^15.5.4": [
+        "./lesson-react-30-styling/lab/react-app/package.json",
+        "./lesson-react-30-styling/solution/react-app/package.json",
+        "./lesson-react-40-inner-components/lab/react-app/package.json",
+        "./lesson-react-40-inner-components/solution/react-app/package.json",
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "react-scripts": {
+      "0.9.5": [
+        "./lesson-react-10-intro/solution/react-app/package.json",
+        "./lesson-react-30-styling/lab/react-app/package.json",
+        "./lesson-react-30-styling/solution/react-app/package.json",
+        "./lesson-react-40-inner-components/lab/react-app/package.json",
+        "./lesson-react-40-inner-components/solution/react-app/package.json",
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json",
+        "./preload/package.json"
+      ],
+      "3.4.1": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/preload1/package.json"
+      ]
+    },
+    "@reach/router": {
+      "^1.3.3": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "@testing-library/jest-dom": {
+      "^4.2.4": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "@testing-library/react": {
+      "^9.3.2": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "@testing-library/user-event": {
+      "^7.1.2": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "prop-types": {
+      "^15.5.8": [
+        "./lesson-react-40-inner-components/lab/react-app/package.json",
+        "./lesson-react-40-inner-components/solution/react-app/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "uuid": {
+      "^3.0.1": [
+        "./lesson-react-40-inner-components/lab/react-app/package.json",
+        "./lesson-react-40-inner-components/solution/react-app/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "enzyme": {
+      "^2.8.2": [
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "html": {
+      "^1.0.0": [
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "react-test-renderer": {
+      "^15.5.4": [
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json",
+        "./preload/package.json"
+      ]
+    }
+  },
+  "devDependencies": {
+    "babel-cli": {
+      "^6.22.2": [
+        "./lesson-es6/lab/package.json",
+        "./lesson-es6/solution/package.json"
+      ]
+    },
+    "babel-preset-es2015": {
+      "^6.22.0": [
+        "./lesson-es6/lab/package.json",
+        "./lesson-es6/solution/package.json"
+      ]
+    },
+    "babel-preset-stage-3": {
+      "^6.22.0": [
+        "./lesson-es6/lab/package.json",
+        "./lesson-es6/solution/package.json"
+      ]
+    },
+    "react-scripts": {
+      "0.9.5": [
+        "./lesson-react-10-intro/solution/react-app/package.json",
+        "./lesson-react-30-styling/lab/react-app/package.json",
+        "./lesson-react-30-styling/solution/react-app/package.json",
+        "./lesson-react-40-inner-components/lab/react-app/package.json",
+        "./lesson-react-40-inner-components/solution/react-app/package.json",
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json"
+      ]
+    },
+    "enzyme": {
+      "^2.8.2": [
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json"
+      ]
+    },
+    "html": {
+      "^1.0.0": [
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json"
+      ]
+    },
+    "react-test-renderer": {
+      "^15.5.4": [
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json"
+      ]
+    }
+  },
+  "peerDependencies": {},
+  "allDependencies": {
+    "babel-cli": {
+      "^6.22.2": [
+        "./lesson-es6/lab/package.json",
+        "./lesson-es6/solution/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "babel-preset-es2015": {
+      "^6.22.0": [
+        "./lesson-es6/lab/package.json",
+        "./lesson-es6/solution/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "babel-preset-stage-3": {
+      "^6.22.0": [
+        "./lesson-es6/lab/package.json",
+        "./lesson-es6/solution/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "react": {
+      "^15.5.3": [
+        "./lesson-react-10-intro/solution/react-app/package.json"
+      ],
+      "^16.13.1": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/preload1/package.json"
+      ],
+      "^15.5.4": [
+        "./lesson-react-30-styling/lab/react-app/package.json",
+        "./lesson-react-30-styling/solution/react-app/package.json",
+        "./lesson-react-40-inner-components/lab/react-app/package.json",
+        "./lesson-react-40-inner-components/solution/react-app/package.json",
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "react-dom": {
+      "^15.5.3": [
+        "./lesson-react-10-intro/solution/react-app/package.json"
+      ],
+      "^16.13.1": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/preload1/package.json"
+      ],
+      "^15.5.4": [
+        "./lesson-react-30-styling/lab/react-app/package.json",
+        "./lesson-react-30-styling/solution/react-app/package.json",
+        "./lesson-react-40-inner-components/lab/react-app/package.json",
+        "./lesson-react-40-inner-components/solution/react-app/package.json",
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "react-scripts": {
+      "0.9.5": [
+        "./lesson-react-10-intro/solution/react-app/package.json",
+        "./lesson-react-30-styling/lab/react-app/package.json",
+        "./lesson-react-30-styling/solution/react-app/package.json",
+        "./lesson-react-40-inner-components/lab/react-app/package.json",
+        "./lesson-react-40-inner-components/solution/react-app/package.json",
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json",
+        "./preload/package.json"
+      ],
+      "3.4.1": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/preload1/package.json"
+      ]
+    },
+    "@reach/router": {
+      "^1.3.3": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "@testing-library/jest-dom": {
+      "^4.2.4": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "@testing-library/react": {
+      "^9.3.2": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "@testing-library/user-event": {
+      "^7.1.2": [
+        "./lesson-react-20-routing/lab1/react-app/package.json",
+        "./lesson-react-20-routing/lab2/react-app/package.json",
+        "./lesson-react-20-routing/solution1/react-app/package.json",
+        "./lesson-react-20-routing/solution2/react-app/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "prop-types": {
+      "^15.5.8": [
+        "./lesson-react-40-inner-components/lab/react-app/package.json",
+        "./lesson-react-40-inner-components/solution/react-app/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "uuid": {
+      "^3.0.1": [
+        "./lesson-react-40-inner-components/lab/react-app/package.json",
+        "./lesson-react-40-inner-components/solution/react-app/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "enzyme": {
+      "^2.8.2": [
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "html": {
+      "^1.0.0": [
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json",
+        "./preload/package.json"
+      ]
+    },
+    "react-test-renderer": {
+      "^15.5.4": [
+        "./lesson-react-50-debugging/lab/debugging/package.json",
+        "./lesson-react-50-debugging/solution/debugging/package.json",
+        "./preload/package.json"
+      ]
+    }
+  }
+}
