@@ -2,7 +2,7 @@
     "name": "DSA-prep C++ Dev Container",
     "image": "mcr.microsoft.com/devcontainers/cpp:latest",
     "settings": {
-        "terminal.integrated.shell.linux": "/bin/bash",
+        "terminal.integrated.shell.linux": "/bin/zsh",
         "editor.formatOnSave": true
     },
     "extensions": [
