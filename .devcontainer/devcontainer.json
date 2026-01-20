@@ -1,0 +1,14 @@
+{
+    "name": "DSA-prep C++ Dev Container",
+    "image": "mcr.microsoft.com/devcontainers/cpp:latest",
+    "settings": {
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "editor.formatOnSave": true
+    },
+    "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cmake-tools",
+        "ms-python.python"
+    ],
+    "forwardPorts": []
+}
