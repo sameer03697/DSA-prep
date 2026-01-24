@@ -1,0 +1,7 @@
+Binary Search
+
+1. Core Problem
+2. 
+
+Problem 1: given the array [0, 0, 0, 0, ... , 1, 1, 1, 1] find the index of the first one.
+

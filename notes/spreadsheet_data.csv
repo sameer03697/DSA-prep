@@ -1,0 +1,85 @@
+Date,Topic,Drive Link,,Description
+,,Digital Notes,Handwritten Notes,
+07/06/2025,Time Complexity,https://drive.google.com/file/d/1u1MjsCz6mPjx_Dmu7zkJlNg0AZPWRWZb/view?usp=sharing,https://drive.google.com/file/d/1h3a-YMcwn8sRAtCw7Xc5K2yQCmHd8pZX/view?usp=sharing,"Definition of Time complexity, Brief intro to big O, Examples of calculating time complexity, how to 
+optimize t.c. using given constraints."
+08/06/2025,C++ For Problem Solving,https://drive.google.com/file/d/1GaCr7KBQogewtZ9fBbgYdgc-gmc473Tc/view?usp=sharing,https://drive.google.com/file/d/1XyPHDav6tgzLOkEVDOZ3LufDyvFASMLf/view?usp=sharing,"Basic structure of program, passing value in functions: pass by value, pass by reference, pass by pointer, 
+scope: local and functional, Dynamic memory allocation"
+14/06/2025,C++ Drill Session,https://drive.google.com/file/d/1_3sWDq_EPKfR3-iPVLkfrUXXeIrQLlox/view?usp=sharing,https://drive.google.com/file/d/1gwNl3496P7vrnVB4AcktggCuTNvXmN0e/view?usp=sharing,"Implementation of 5 different problems- AcCepted(abc104_b at atcoder), Minesweeper (abc075_b) , 
+Valid Sudoku(problem-040 codeforces), Rotate Image (Leetcode), Template matching (abc054_b)"
+15/06/2025,Modulo Arithmetic Foundation,https://drive.google.com/file/d/1tmPlBu42oEJqlfVi7aXC2cB51V_vCLks/view?usp=sharing,https://drive.google.com/file/d/1glLeUifgDXAKBYS4k7gI9uOwuUTugjW5/view?usp=sharing,"Intro to modulo, Evaluating expressions using modulo, Fast exponentiation algorithm, Division in modulo 
+arithmetic, Fermat's little Theorem to calculate inverses, summary"
+28/06/2025,Contribution Technique,https://drive.google.com/file/d/11A4HLeNyGe08Bc_QLsXKp2p79_8NbqXd/view?usp=sharing,https://drive.google.com/file/d/1dIo9gD0oTgZ0Pnoqu-T-uebZUC4gSVYA/view?usp=sharing,"1. sum total(sum of each subarray): O(N^2) and O(N) solution. Contribution techniques types. 
+2. no of inversions of a given array
+3. sum (product of every subarray) 
+4. max sum subarray"
+05/07/2025,STL - 1,https://drive.google.com/file/d/1IiqCW5zsGEFp506uOOT0e-vJBzRtTl-j/view?usp=sharing,https://drive.google.com/file/d/1QhKBajzlH5Lw5g0TfrzT5C7nMauQACKT/view?usp=sharing,"Vectors: Declaration, Insertion at an index, deletion, removing an element, finding elements, 
+search operations"
+06/07/2025,STL - 2,https://drive.google.com/file/d/1pNs0b4XSe9ft96secRxHgonOCdpjK71_/view?usp=sharing,https://drive.google.com/file/d/1Tk_uO_MPVyV3CvpH60F98gxsSMLttR3u/view?usp=sharing,"Sets : Insertion, reverse iterators, search of element, deletion, Unordered set, Maps : declaration, 
+search, insertion, deletion, use of lowerbound, unordered maps, multiset"
+06/07/2025,Doubt Session,https://drive.google.com/file/d/1OMdH3n1ZdBA-dr0pR9EFXTxtzPAF3ATb/view?usp=sharing,https://drive.google.com/file/d/1EpuYFyBecVHHg9SiODcVadZW0e7P92ET/view?usp=sharing,"Power of Two, Two intervals, GCD, Lucky Numbers, Sum of odd numbers b/w x and y, O(1) soln, 
+Three numbers, O(k) solution, Number Pyramid pattern"
+12/07/2025,STL Application Idea,https://drive.google.com/file/d/1y8WxIM8FFjqPThIebxNuLnFlcVlnIurW/view?usp=sharing,https://drive.google.com/file/d/1MYA_y4hJ3DWbTUZ_ASthcdkQK1DkXN6Q/view?usp=sharing,"LR insertion, String Formation, Okabe and boxes Idea, Swappable, Homework problems: 
+snuke's coloring, smart infants"
+16/07/2025,Classical Greedy Problems,https://drive.google.com/file/d/10mbp4MNVVoWxX-LZ8jPcRlmU25e6HcKR/view?usp=sharing,https://drive.google.com/file/d/1yGdU2p6SOSe-KmwSMHtsiJF7uDMF53YS/view?usp=sharing,"Greedy technique, Problems: make total sum, Non overlapping intervals, Fractional Knapsack 
+Problem, Nested Ranges Check"
+17/07/2025,Contest Discussion,https://drive.google.com/file/d/1W-ZYS6U9lv5B4hfNsZsJABP0if5HDXDF/view?usp=sharing,https://drive.google.com/file/d/1q5S0fVBpdu2znUV3MUcd3IeWHALrF0ec/view?usp=sharing,"Snuke's coloring 2 pseudocode, Equation solver idea, Color it Idea, Weird sum approach, Time 
+complexity implementation, Best Train Connection Hint"
+20/07/2025,STL Application Idea,https://drive.google.com/file/d/1j2q8UMLLJuOtR3T7LVVuUobjaD3LO0p_/view?usp=sharing,https://drive.google.com/file/d/1BRYrgY85nfvjNz65cfzkVpW4gnWGz5o0/view?usp=sharing,"Max item cost approach, Running mean, mode approach, LRU cache approach"
+24/07/2025,"STL Application Idea using 
+Stack and Map",https://drive.google.com/file/d/1qmrjLY7YtqoiOWPQoBVOyXt0KKCP2eBu/view?usp=sharing,https://drive.google.com/file/d/103e7KFSRRNXehWkf__MEy3763xVAxqji/view?usp=sharing,"No. of subarrays==k, concept of finding prev and next smallest element using stack, 
+largest rectangle in histogram, trapping rain water"
+25/07/2025,"Debugging Masterclass + 
+Using AI Best",https://drive.google.com/file/d/10dj2GcFbX0tuwGedO_FKwTpO3tjwv_nK/view?usp=sharing,https://drive.google.com/file/d/1_oDhuBhSckxHGnq2bQDKSPU_PSf69xk6/view?usp=sharing,"Detailed explanation of errors, program to generate inputs for stress testing, use of ai."
+26/07/2025,Doubt Session,https://drive.google.com/file/d/1Qb9FfEaiaBLKBuYqpHSXxm4giKQMN-w3/view?usp=sharing,https://drive.google.com/file/d/1KlFuT4XepOu0Js283b3CgLq0g_yMBD3h/view?usp=sharing,"Diversify the array, height of N soldiers."
+03/08/2025,Binary Search Foundation,https://drive.google.com/file/d/1-LXLuYwrtN-Pb0jLabnwTWxLdQL5FnqW/view?usp=sharing,https://drive.google.com/file/d/1VYouSuvQPEUdbyaQbBdcuewQj-JRnLX_/view?usp=sharing,"Recap of syllabus, Basics of Binary search, Fundamentals problem of Binary search, Implementation of 
+lowerbound/upperbound, rotated array, peak finding in a bitonic array, types of binary search problems"
+03/08/2025,Binary Search Application,https://drive.google.com/file/d/1-UuQ2ZK0YVd3feQRKcGWzkY4Qlr4VzEX/view?usp=sharing,https://drive.google.com/file/d/1MaoOBRLAt7-WTLHy_U8Th1TAVyxZFViB/view?usp=sharing,"Points on a line, Factory Machines, Painter Partition Problem, Multiplication Table"
+06/08/2025,Doubt Session,https://drive.google.com/file/d/1tvKb0D9OzIhzpQn8SXszZtXHsukqbs-q/view?usp=drive_link,https://drive.google.com/file/d/1bGsecyWDh78ary4ClhR5QWa-Gm5UPk0p/view?usp=drive_link,"Matrix logic, URL implementation, No. of intersecting diagonals idea, No. of parts in convex polygon idea, 
+konya and tanya idea, sum of digit idea."
+10/08/2025,Two Pointers Form 1,https://drive.google.com/file/d/1KWCI0-7fYHFkxlqL4Erz2W2mVeDArqQk/view?usp=drive_link,https://drive.google.com/file/d/1bd0c9MrAYKPylW-ALirUDYztk59gnrpW/view?usp=drive_link,"Types of Forms of two pointers, Intro to Form 1, max length subarray of 1's, subarrays with no. 
+of distinct ele <=k"
+10/08/2025,Two Pointers Form 2 & 3,https://drive.google.com/file/d/1zbAY8bGYRcMjuEPNhVyz_Y9M-PN-Di3X/view?usp=drive_link,https://drive.google.com/file/d/1nnSe7PaUen3Oy_Th6HrykGvDCdGzSFkg/view?usp=drive_link,"Solution of homework problems : 1. no. of subarrays with # of distinct ele ==k, 2. sum of length of all 
+subarray with # of distinct ele >k; Intro to Form 2 problems: 1. Find max value of the given expression, 
+Is S a subsequence of T."
+17/08/2025,Recursion Foundation,https://drive.google.com/file/d/1iGR4BryaSMhffQHtcDhc1aviHn8nwKZt/view?usp=drive_link,https://drive.google.com/file/d/1cQkXPKRIvplTznjOzdl12DdwyOu4qoiZ/view?usp=drive_link,"Examples of Recursion; Frameworks to visualize : code, recursion tree, recursion stack; Four forms; 
+Palindrom check using recursion; ncr calculation;  print a series; tower of hanoi"
+17/08/2025,Recursion Drill Session,https://drive.google.com/file/d/1O9mQ13oi8jMinmOzR6hktQwKCw9E0P8D/view?usp=drive_link,https://drive.google.com/file/d/1UIfzMIVWyN-bs_MJgeKCOw2dOxwOpTo2/view?usp=drive_link,"Kth finding in tower of hanoi, Kth symbol in grammar, Christmas (kth finding)"
+23/08/2025,Doubt Session,https://drive.google.com/file/d/18shS59dLmF6n9vnVZpzVpTwRlvo7A8Q-/view?usp=drive_link,https://drive.google.com/file/d/1WcbiwHDO-UxNGQ1xnNN79Ik2SeZhsrqH/view?usp=drive_link,"Maximise the Fraction Approach, Code for 1 idea, cellular network idea"
+24/08/2025,Mixed Drill Session,https://drive.google.com/file/d/1WmyoVS9KNE3E-uA_sHtuZYoRdp6--DwC/view?usp=drive_link,https://drive.google.com/file/d/1uUiJgghyWgLfXFRK-P-IWBsy5zSpLCoP/view?usp=drive_link,"Sum of ele in subsequence>=k, Hamburgers, The meeting cannot be changed, Quiz Master"
+25/08/2025,Backtracking Framework & Usage,https://drive.google.com/file/d/1uF80-t7rr1G-esVMYwkA7E4YXv6qWDWz/view?usp=drive_link,https://drive.google.com/file/d/1ctb9TLpvB_k8JuoOrpfpzk1FFYQSxbL2/view?usp=drive_link," LLCMD, Place one knight in each row, place knights, print all permutations of array where 
+elements are distinct and when arr has duplicates"
+27/08/2025,Doubt Session,https://drive.google.com/file/d/1Z0dyqL2gkyzn51kF5mEJapwnbWg0FKmz/view?usp=drive_link,https://drive.google.com/file/d/1WcbiwHDO-UxNGQ1xnNN79Ik2SeZhsrqH/view?usp=drive_link,Nephren gives a riddle
+01/08/2025,Contest Discussion,https://drive.google.com/file/d/1eiZ-Hd2iu37aWOl3kQNFTD6YHY6a913w/view?usp=drive_link,https://drive.google.com/file/d/1_WRhGEGezGe8uzKlRirVSnMMNOycmgHR/view?usp=drive_link,
+07/09/2025,Graph DFS Usage,https://drive.google.com/file/d/1ySjyDU_b9GNYS_ew_Foi2fQbrLzza8e0/view?usp=sharing,https://drive.google.com/file/d/1hueOUk1Id05l12Mkjum_-RjyiJeub1vw/view?usp=sharing,"DFS Algorithm, reachability problem, component numbering, applications of DFS, Bi-partite problem, 
+homework question"
+07/09/2025,Graph BFS Usage,https://drive.google.com/file/d/1gsCllWsY-LYkpZ3JYu64ObWaGHgdo0e1/view?usp=sharing,https://drive.google.com/file/d/1kzlPkxNX4VsklvyYoto-ysoW0LsXet_P/view?usp=drive_link,"DFS v BFS, BFS algorithm, layered exploration of BFS, Labriynth problem cses, Path printing, 
+printing direction, homework questions"
+10/09/2025,Doubt Session,https://drive.google.com/file/d/1wpXRqSup0pLFh0iDIGpTbTqQz2KdUxLL/view?usp=sharing,https://drive.google.com/file/d/1ECaQbM_F6azGoV4fMIqp3W0cndhGOSGK/view?usp=drive_link,Contest problem discussion(Q8 and Q9)
+13/09/2025,Graph Shortest Algorithms,https://drive.google.com/file/d/1n_q05PhJcFdjqIfrKvcTbnoCkCID8LZK/view?usp=drive_link,https://drive.google.com/file/d/1OczB88K9xtLWnuLdzxwvHU1AbbZ5NlR8/view?usp=drive_link,"Classification of diff shortest path algo, Storing in graphs, 0-1 BPS Algo question, Dijkstra algorithm
+, Bellman Ford, Floyd Marshall"
+13/09/2025,Graph Formulation 1,https://drive.google.com/file/d/1FOzRd2am6MgKtxaZSSiOcGs2FVO7rPCy/view?usp=drive_link,https://drive.google.com/file/d/17ebarqARkSzbWEPBLYk6YNSuKgKq54AR/view?usp=drive_link,"Problems on Navigate from s to e in a grid, Budget travelling"
+14/09/2025,Doubt Session,https://drive.google.com/file/d/1eum_ZOOaXxgm9-tCCrToMk_BmJxMw0pZ/view?usp=drive_link,https://drive.google.com/file/d/10sDTGV6avvnc0I42aoWmL6MkmvySYXHZ/view?usp=drive_link,"Prime Number, a.b%m, yet another broken keyboard idea, k-th beautiful string, leha and function idea"
+17/09/2025,Doubt Session,https://drive.google.com/file/d/1DiVQxGX2v-Y49JQXTZ3YBrbRAB3pUClU/view?usp=drive_link,https://drive.google.com/file/d/1YUoo8IiDUeShKtuizh8X4fropv-njywI/view?usp=drive_link,"Search in sorted rotated array, Strange number"
+20/09/2025,Graph Formulation 2,https://drive.google.com/file/d/1SHldjHHuf9LdWHLoDORBLZGm-V_Re8-G/view?usp=drive_link,https://drive.google.com/file/d/1DkWrch2w-2sGeVFYklO-88In_nLtFvgw/view?usp=drive_link,"Supernode question, jump game idea"
+20/09/2025,Graph Drill Session,https://drive.google.com/file/d/1UyG3FZ3zEqTJ3X8RMCE9CnJxKw2VoMBJ/view?usp=drive_link,https://drive.google.com/file/d/1RsxL4-tm0iHbbo5_6UiLUOs51KVKb3DF/view?usp=drive_link,"Satisfiability of equality equation, fox and two dots idea, maze idea"
+22/09/2025,Graph Drill Session 2,https://drive.google.com/file/d/1qiV38HjJv4-UQvCUdO1VGg8mGR_xfbjz/view?usp=drive_link,https://drive.google.com/file/d/1Mnhj_miNUKOoGf5AtqkKh5DP_HgxSl7k/view?usp=drive_link,"High score, Flight discount, Max weighted k edge path idea"
+25/09/2025,Doubt Session,https://drive.google.com/file/d/1rMdi4cwCGFjpZrJITEXlKwqAfwBO3mHS/view?usp=drive_link,,"Count valid grid paths, Android unlock pattern, topological labelling idea"
+27/09/2025,Tree Foundations & Framework,https://drive.google.com/file/d/1ssFWwmDBZxhDWspXKOn20LxzcFnOjRkx/view?usp=drive_link,https://drive.google.com/file/d/1p7r3NDmd-Nk5Q3rzCdC2mAbp98uk_FdF/view?usp=drive_link,"Tree intro, DFS in Trees, Distance to all nodes from root, subtree, no of nodes in subtree, fathest node, 
+pre order v post order traversal, no. of diff pre order traversal, Frameworks of tree, find diameter"
+27/09/2025,Tree Data Structure Ideas,https://drive.google.com/file/d/1gfFn5XgCe1wsxSk1ty6ASuJKu9eBXfSG/view?usp=drive_link,https://drive.google.com/file/d/1k07nN7MKL5urNHMCAeujc-PiC9CNqmcg/view?usp=drive_link,"Sum of distance to every node, pre rooting idea, farthest & closest value on path to root, Small to large merging"
+28/09/2025,Doubt Session,https://drive.google.com/file/d/15rSX3otBRU6TH0AJYDen-lw1fsbohqFM/view?usp=drive_link,,"Burn them all idea, Subsequences summing to sevens idea, budget travelling idea, number of zig zag 1 idea"
+01/10/2025,Doubt Session,https://drive.google.com/file/d/18Io5xef8Izb6le5QdLUvNWu1cDxWsxYc/view?usp=drive_link,,"Edge Removals, Burn them all, One piece, cycle finding, gotham rises"
+05/10/2025,Drill on Graph + Trees,https://drive.google.com/file/d/1sTgvL9k5CUmve03ud2Xgx6gkUpFaUtDz/view?usp=sharing,,"Two currencies idea, Kefa and Park idea, Course schedule 4, Count ways to build rooms, parralel courses 3 idea, 
+edges in shortest paths idea"
+07/10/2025,DSU and Applications,https://drive.google.com/file/d/1bRDc2TgoFl3MXKDQxohu25ZXRCV7LLmg/view?usp=drive_link,,"DSU intro, Strange food chain, weighted dsu, Rank/size/path compression"
+11/10/2025,Bit Manipulation Foundation,https://drive.google.com/file/d/13CDgBs1ybTpngvoCwAPlPymOwXviazBk/view?usp=drive_link,https://drive.google.com/file/d/1D2o40iJzkEOcciGYNBDYE45vxOOtDFoz/view?usp=drive_link,"Operators and binary representation: And, or, xor, shift, negate; Find values of x for expressions, Overflows, 
+Masking using boolean array, generate subsets of a set using masking ("
+11/10/2025,Bit Manipulation Application,https://drive.google.com/file/d/1DRiFB6Sdinb8ztSr0lkNa2EHVaALt-7q/view?usp=drive_link,,Sum of (and/xor of subarrays) of the array
+19/10/2025,DP Foundation,https://drive.google.com/file/d/10gweYBXezAKTVA4n5IUTwj5VIFaYJdCz/view?usp=drive_link,https://drive.google.com/file/d/1Gg2Iv6tMklYq2_huztXnnd9lRRPDJ1EW/view?usp=drive_link,"Intro with recursion tree and dag, overlapping subproblems, optimal substructure, types of problem, framework 
+to solve a dp problem no. of ways to make sum=x, min no. of elements to make sum=x"
+19/10/2025,DP Form 1,https://drive.google.com/file/d/1yO7w6RVvNuVyqd1ktex93sqgIgT5-JsV/view?usp=drive_link,https://drive.google.com/file/d/1Zv7qNNAPzwxe8lcbufgL17-oKHm-XJiS/view?usp=drive_link,"No of ways to fill missing places with no neighbours same, string is circualr, no of a is odd, print"
+25/10/2025,DP Form 2 & 3 Deep Dive,https://drive.google.com/file/d/1QoFciFHoKt0RkEKa9TZkHrsKOzDaDVmo/view?usp=drive_link,https://drive.google.com/file/d/1NTdoLs16Anxff43ZC6y7hBakhShliOGC/view?usp=drive_link,"Form 2 intro, no of bitonic subsequences, longest bitonic subsequence, count of no of longest bitonic subsequence."
+25/10/2025,DP Form 4 & 5 Deep Dive,https://drive.google.com/file/d/13RnsX7qtOZ8Uh_u3wf1kbzxf6cuqxdfn/view?usp=drive_link,,"Burst balloons using form 4, merge elements 1 using form 4, homework problem, win the game with form 5"
+22/11/2025,Segment Tree Foundation,,https://drive.google.com/file/d/1yRvjQhjVsiRj83iz-Stm4jKR3g97Mht0/view?usp=sharing,
+23/11/2025,Segment Tree Application,,https://drive.google.com/file/d/1a1qxlXrxNXipZAVO35kNqEuC2mvGp0JI/view?usp=sharing,
+23/11/2025,Segment Tree Drill Session,,https://drive.google.com/file/d/1GBwZpFpa1Dhp2VXUgtUx-WTc7z5P9t2h/view?usp=drive_link,
